@@ -8,9 +8,7 @@ This demo app with responsive layout of navbar
 
 ## Demo
 
-
-<img src="./public/demo.gif" alt="Mockup 1" width="500" height="500" style="display:inline-block;"/>
-
+ 
 
 ![Demo of Navbar](./public/demo.gif)
 
