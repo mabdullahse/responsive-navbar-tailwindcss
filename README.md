@@ -1,6 +1,6 @@
 # tailwindcss Responsive navbar
 
-This is starter template of react application created via vite. Then integrate tailwindcss with it
+This demo app with responsive layout of navbar
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
